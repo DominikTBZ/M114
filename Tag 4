@@ -1,0 +1,35 @@
+Tag4, 19.9.2022
+    
+(Der letzte Montag ist infolge Knabenschiessen-Fest ausgefallen)
+
+
+	
+Repetition: Tafelbeispiel zu Berechnung einer Bildgrösse (Siehe Allgemein)
+	
+Fragen zu ATF-8/16 LE-BOM und RE-BOM
+
+Start mit neuem Thema: Komprimierung.
+Theorie und Aufgaben siehe: https://gitlab.com/ch-tbz-it/Stud/m114/-/tree/main/B.%20Daten%20komprimieren/B.1%20Verlustlose%20Komprimierung
+Das wurde behandelt:
+
+
+	
+Verlustlos versus verlustbehafteter Komprimierung
+	
+Start mit verlustloser Komprimierung mit Beispiel Morsecode (Vor/Nachteile)
+	
+Der "verbesserte" Morsecode: Huffmancode (Theorie mit den Wortbeispielen ERDBEERE und ERDBEEREN
+	
+Ein weiteres wichtiges Verfahren: RLC/RLE (keine Aufgabe dazu!)
+	
+Weiteres von den vorangegangenen Verfahren unterschiedliches Konzept ist das lexikalische Verfahren LZW.
+	(Theorie inkl. Aufgabe siehe gitlab)
+	
+Ein letztes hier erwähntes Konzept stellt BWT dar. Wobei es sich "nur" um eine Transformation handelt. Die eigentliche Komprimierung erledigt RLC. (Theorie dazu muss selber erarbeitet werden)
+	Siehe auch "Ergänzende Unterlagen"
+
+
+
+Ergänzende Unterlagen siehe: https://www.juergarnold.ch/kompression.html
+
+BearbeitetB. Daten komprimieren/B.1 Verlustlose Komprimierung · main · TBZ-IT-Informatik / modules for students / M114 · GitLabCodierungs-, Kompressions- und Verschlüsselungsverfahren einsetzengitlab.com<https://teams.microsoft.com/l/message/19:96527109b4ae48598200677b89eee308@thread.tacv2/1663573405533?tenantId=f733fdc5-1255-4d8d-b793-2bc7aca0f214&amp;groupId=9ddd5de3-4cfe-4774-a270-fb5928831693&amp;parentMessageId=1663573405533&amp;teamName=IT_PE21b_M114&amp;channelName=Fächertagebuch&amp;createdTime=1663573405533&amp;allowXTenantAccess=false>
